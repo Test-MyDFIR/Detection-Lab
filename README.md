@@ -26,6 +26,10 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
+## Steps
 
-*Ref 1: Network Diagram*
+Below are the main steps of the development process, with screenshots for each stage:
+
+### Step 1: Login Interface
+![Login Interface](link_to_image)
+*This screenshot shows the login interface, where administrators can securely log into the system using their credentials.*
